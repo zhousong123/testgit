@@ -40,5 +40,7 @@ public class BuyPolicyImpl implements BuyPolicy {
         }
         return output;
     }
+	
+	add func2
 
 }
