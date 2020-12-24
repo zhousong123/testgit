@@ -19,6 +19,8 @@ public class BuyPolicyImpl implements BuyPolicy {
 
     @Autowired
     private BaseDao dao;
+	
+	addfunc1
 
     @Override public BuyPolicyOutput execute(BuyPolicyInput input) {
         BuyPolicyOutput output = new BuyPolicyOutput();
