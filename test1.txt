@@ -5,3 +5,4 @@ add func1
 kkk
 code conclick1
 code conclick2
+compare2
