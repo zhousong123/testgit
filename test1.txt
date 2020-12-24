@@ -7,4 +7,5 @@ code conclick1
 code conclick2
 compare1
 compare2
+testconflict1
 testconflict2
